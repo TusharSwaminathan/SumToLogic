@@ -1,0 +1,6 @@
+1)Copy all the class files to a folder
+2)Add all the class files in a single package in Eclipse
+3)Rename the package (if required)
+4)Run the program
+5)Enter an input number as value into the console 
+6)Output with expression occurs in console if exists else displays -1
